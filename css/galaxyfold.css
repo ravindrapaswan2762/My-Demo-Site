@@ -1,0 +1,15 @@
+.services-container{
+    height: 1305px;
+}
+#client-section {
+    height: 447px;
+}
+#contact-box input, #contact-box textarea{
+    width: 184px;
+    overflow: hidden;
+}
+.client-item {
+    padding: 36px 10px;
+    margin: 0px 0px;
+}
+
